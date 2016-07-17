@@ -1,0 +1,105 @@
+#menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#menu-0 .navbar-toggler {
+  color: #000000;
+}
+#menu-0 .link,
+#menu-0 .dropdown-item {
+  color: #000000;
+}
+#menu-0 .link {
+  font-size: 0.75rem;
+}
+#menu-0 .dropdown-item,
+#menu-0 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-0 .link:hover,
+#menu-0 .dropdown-item:hover,
+#menu-0 .link:focus,
+#menu-0 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-0 .nav-dropdown-sm .link:focus,
+#menu-0 .nav-dropdown-sm .link:hover,
+#menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-0 .navbar,
+#menu-0 .nav-dropdown-sm,
+#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-0 .bg-color.transparent.opened .link:hover,
+#menu-0 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header5-1 .mbr-section-title {
+  color: #FFF;
+}
+#header5-1 .mbr-section-lead {
+  color: #9c9a9a;
+}
+#header5-1 H1 {
+  color: #ffffff;
+}
+#header5-1 P {
+  color: #e25041;
+}
+#header3-4 .mbr-section-title,
+#header3-4 .mbr-section-subtitle {
+  text-align: center;
+}
+#features7-3 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-3 .iconbox {
+  background-color: #2969b0;
+  border-color: #2969b0;
+}
+#msg-box8-5 .mbr-section-title,
+#msg-box8-5 p {
+  color: #fff;
+}
+#msg-box8-5 .mbr-section-title {
+  text-align: center;
+}
+#msg-box8-5 .mbr-section-title DIV {
+  text-align: center;
+}
+#header3-7 .mbr-section-title,
+#header3-7 .mbr-section-subtitle {
+  text-align: center;
+}
+#content5-8 .mbr-section-title,
+#content5-8 p {
+  color: #fff;
+}
+#content5-8 .mbr-section-title {
+  text-align: center;
+}
+#social-buttons3-10 .mbr-section-title,
+#social-buttons3-10 .btn-social {
+  color: #fff;
+}
