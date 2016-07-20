@@ -4,7 +4,10 @@
  */
 .container {
   position: relative; }
-
+ .img-responsive{
+  width: 100%;
+  height: auto;
+ }
 .btn {
   margin-bottom: 0.5rem; }
   .btn + .btn {
