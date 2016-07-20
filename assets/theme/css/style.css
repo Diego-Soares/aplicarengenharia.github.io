@@ -68,29 +68,29 @@
   border-radius: 3px; }
 
 .btn-primary {
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #025aa5;
+  border-color: #025aa5;
   box-shadow: none;
   color: #fff; }
   .btn-primary:hover {
     color: #fff;
-    background-color: #a07e49;
-    border-color: #a07e49;
+    background-color: #0e4265;
+    border-color: #0e4265;
     box-shadow: none; }
   .btn-primary:focus, .btn-primary.focus {
     color: #fff;
-    background-color: #a07e49;
-    border-color: #a07e49; }
+    background-color: #0e4265;
+    border-color: #0e4265; }
   .btn-primary:active, .btn-primary.active {
     color: #fff;
-    background-color: #a07e49;
-    border-color: #a07e49;
+    background-color: #0e4265;
+    border-color: #0e4265;
     background-image: none;
     box-shadow: none; }
   .btn-primary.disabled, .btn-primary:disabled {
     color: #fff !important;
-    background-color: #a07e49 !important;
-    border-color: #a07e49 !important;
+    background-color: #0e4265 !important;
+    border-color: #0e4265 !important;
     opacity: 0.85; }
 
 .btn-secondary {
@@ -431,8 +431,25 @@ a.mbr-iconfont:hover {
   line-height: 44px;
   text-align: center;
   position: relative;
-  border: 2px solid #c0a375;
   color: #232323; }
+  .btn-social.facebook{
+    border: 2px solid #3a5ba2
+  }
+  .btn-social.facebook:hover{
+    background: #3a5ba2
+  }
+  .btn-social.twitter{
+    border: 2px solid #55acee
+  }
+  .btn-social.twitter:hover{
+    background: #55acee
+  }
+  .btn-social.plusone{
+    border: 2px solid #dd4b39
+  }
+  .btn-social.plusone:hover{
+    background: #dd4b39
+  }
   .btn-social i {
     top: 0;
     line-height: 44px;
