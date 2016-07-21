@@ -454,7 +454,7 @@
                 animatedElements.addClass("hidden").viewportChecker({
                     classToRemove: 'hidden',
                     classToAddForFullView: '',
-                    classToAdd: 'visible animated fadeInUp',
+                    classToAdd: 'visible animated fadeIn',
                     offset: 100,
                     removeClassAfterAnimation: true
                 });
