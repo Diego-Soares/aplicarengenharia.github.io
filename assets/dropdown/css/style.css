@@ -104,9 +104,9 @@
       .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
         margin: 0;
         padding: 1.667em 2.583em 1.667em 1.667em; }
-  .nav-dropdown .link::after,
+/*  .nav-dropdown .link::after,
   .nav-dropdown .dropdown-item::after {
-    color: inherit; }
+    color: inherit; }*/
   .nav-dropdown .btn {
     font-size: 0.75rem;
     font-weight: 700;

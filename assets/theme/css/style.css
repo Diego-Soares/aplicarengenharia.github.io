@@ -1208,11 +1208,23 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   padding-left: 0;
   padding-right: 0;
   padding-top: 120px;
-  padding-bottom: 120px; }
+  padding-bottom: 120px;
+  transition: all 0.2s ease-in;
+}
+.projects-col:hover{
+  background-color: #ecf0f1;
+}
+.mbr-cards-col h4{
+  transition: all 0.2s ease-in;
+}
+.mbr-cards-col:hover h4{
+  color: #2980b9
+}
   @media (max-width: 767px) {
     .mbr-cards-col {
       padding-top: 60px;
       padding-bottom: 60px; } }
+}
 .mbr-cards .striped .card {
   padding-left: 10%;
   padding-right: 10%; }
